@@ -1,3 +1,0 @@
-print("Hello"); print("How are you?"); print("Bye bye!")
-
-## semicolon isn't mandatory for Python.
